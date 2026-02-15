@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-valentine-50: #fef1f7;
+  --color-valentine-100: #fee5f0;
+  --color-valentine-200: #fecce3;
+  --color-valentine-300: #ffa3ca;
+  --color-valentine-400: #fe6aa8;
+  --color-valentine-500: #f83f87;
+  --color-valentine-600: #e71d6a;
+  --color-valentine-700: #c91150;
+  --color-valentine-800: #a61243;
+  --color-valentine-900: #8a143b;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
